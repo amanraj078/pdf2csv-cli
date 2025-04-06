@@ -104,13 +104,13 @@ You can test the tool using this sample PDF with tables or upload your own.
 
 Sample extracted CSVs will be saved in the `output/` folder.
 
-## 📸 Screenshots (Add These After Push)
+## 📸 Screenshots
 
 - CLI running
-![CLI Tool Screenshot](pdf2csv-cli-tool/images/image1.png)
+![CLI Tool Screenshot](images/image1.png)
 
 - Output CSV opened in Excel
-![CLI Tool Screenshot](pdf2csv-cli-tool/images/image2.png)
+![CLI Tool Screenshot](images/image2.png)
 
 <!-- ## 📜 License
 
